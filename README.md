@@ -64,7 +64,7 @@ The system, which can access any remote MySQL database, was developed through Py
 #### Installation
 
 ```
-pip install tkinter
+pip install tk
 pip install fpdf2
 pip install pymysql
 ```
