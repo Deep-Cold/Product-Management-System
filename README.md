@@ -75,6 +75,8 @@ pip install pymysql
 python3 main.py
 ```
 
+The default information filled in the login window is the information of our remote database, which is accessable. Just click the `submit` button to login.
+
 **It is tested that the program can be launched in MacOS and Windows(10,11)**
 
 
